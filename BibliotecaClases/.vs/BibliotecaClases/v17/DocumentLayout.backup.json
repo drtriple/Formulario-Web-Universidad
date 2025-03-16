@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\Formulario_Universidad\\BibliotecaClases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49E9970C-9FF5-4AF5-BE1E-D4F69678306E}|BibliotecaClases\\BibliotecaClases.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\formulario_universidad\\bibliotecaclases\\bibliotecaclases\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E9970C-9FF5-4AF5-BE1E-D4F69678306E}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E9970C-9FF5-4AF5-BE1E-D4F69678306E}|BibliotecaClases\\BibliotecaClases.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\formulario_universidad\\bibliotecaclases\\bibliotecaclases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E9970C-9FF5-4AF5-BE1E-D4F69678306E}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E9970C-9FF5-4AF5-BE1E-D4F69678306E}|BibliotecaClases\\BibliotecaClases.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\formulario_universidad\\bibliotecaclases\\bibliotecaclases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E9970C-9FF5-4AF5-BE1E-D4F69678306E}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E9970C-9FF5-4AF5-BE1E-D4F69678306E}|BibliotecaClases\\BibliotecaClases.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\formulario_universidad\\bibliotecaclases\\bibliotecaclases\\pregrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E9970C-9FF5-4AF5-BE1E-D4F69678306E}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\pregrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E9970C-9FF5-4AF5-BE1E-D4F69678306E}|BibliotecaClases\\BibliotecaClases.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\formulario_universidad\\bibliotecaclases\\bibliotecaclases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E9970C-9FF5-4AF5-BE1E-D4F69678306E}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\Formulario_Universidad\\BibliotecaClases\\BibliotecaClases\\Empleado.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Empleado.cs",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\Formulario_Universidad\\BibliotecaClases\\BibliotecaClases\\Empleado.cs",
+              "RelativeToolTip": "BibliotecaClases\\Empleado.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:27:38.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\Formulario_Universidad\\BibliotecaClases\\BibliotecaClases\\Extension.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Extension.cs",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\Formulario_Universidad\\BibliotecaClases\\BibliotecaClases\\Extension.cs",
+              "RelativeToolTip": "BibliotecaClases\\Extension.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:26:57.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pregrado.cs",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\Formulario_Universidad\\BibliotecaClases\\BibliotecaClases\\Pregrado.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Pregrado.cs",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\Formulario_Universidad\\BibliotecaClases\\BibliotecaClases\\Pregrado.cs",
+              "RelativeToolTip": "BibliotecaClases\\Pregrado.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwHEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:26:08.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\Formulario_Universidad\\BibliotecaClases\\BibliotecaClases\\Estudiante.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Estudiante.cs",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\Formulario_Universidad\\BibliotecaClases\\BibliotecaClases\\Estudiante.cs",
+              "RelativeToolTip": "BibliotecaClases\\Estudiante.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:20:42.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\Formulario_Universidad\\BibliotecaClases\\BibliotecaClases\\Persona.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Persona.cs",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\Formulario_Universidad\\BibliotecaClases\\BibliotecaClases\\Persona.cs",
+              "RelativeToolTip": "BibliotecaClases\\Persona.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:13:45.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

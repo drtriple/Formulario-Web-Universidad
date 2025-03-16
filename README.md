@@ -10,8 +10,8 @@ Proyecto Académico aplicando Herencia y Polimorfismo mediante C# en formularios
 Solución UniversidadApp
 │
 ├── WebApp (Proyecto Web ASP.NET)
-│   ├── Default.aspx
-│   └── Default.aspx.cs
+│   ├── WebForm.aspx
+│   └── WebForm.aspx.cs
 │
 └── BibliotecaClases (Proyecto Class Library)
     ├── Persona.cs

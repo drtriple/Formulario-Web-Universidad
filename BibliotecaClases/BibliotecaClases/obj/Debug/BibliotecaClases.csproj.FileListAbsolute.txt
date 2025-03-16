@@ -1,0 +1,6 @@
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\Formulario_Universidad\BibliotecaClases\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\Formulario_Universidad\BibliotecaClases\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\Formulario_Universidad\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.AssemblyReference.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\Formulario_Universidad\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\Formulario_Universidad\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\Formulario_Universidad\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.pdb

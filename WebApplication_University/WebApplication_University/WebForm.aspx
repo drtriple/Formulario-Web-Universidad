@@ -82,8 +82,8 @@
                                     
                                     <div class="row mb-3">
                                         <div class="col-12">
-                                            <asp:Button ID="btnGuardarPregrado" runat="server" Text="Guardar" CssClass="btn btn-primary" /> <!-- OnClick="btnGuardarPregrado_Click" -->
-                                            <asp:Button ID="btnLimpiarPregrado" runat="server" Text="Limpiar" CssClass="btn btn-secondary" /> <!-- OnClick="btnLimpiarPregrado_Click" -->
+                                            <asp:Button ID="btnGuardarPregrado" runat="server" Text="Guardar" CssClass="btn btn-primary" OnClick="btnGuardarPregrado_Click" /> <!--  -->
+                                            <asp:Button ID="btnLimpiarPregrado" runat="server" Text="Limpiar" CssClass="btn btn-secondary" OnClick="btnLimpiarPregrado_Click" /> <!--  -->
                                         </div>
                                     </div>
                                     
@@ -138,8 +138,8 @@
                                     
                                     <div class="row mb-3">
                                         <div class="col-12">
-                                            <asp:Button ID="btnGuardarExtension" runat="server" Text="Guardar" CssClass="btn btn-primary"  /> <!-- OnClick="btnGuardarExtension_Click" -->
-                                            <asp:Button ID="btnLimpiarExtension" runat="server" Text="Limpiar" CssClass="btn btn-secondary" /> <!-- OnClick="btnLimpiarExtension_Click"  -->
+                                            <asp:Button ID="btnGuardarExtension" runat="server" Text="Guardar" CssClass="btn btn-primary"  OnClick="btnGuardarExtension_Click" /> <!--  -->
+                                            <asp:Button ID="btnLimpiarExtension" runat="server" Text="Limpiar" CssClass="btn btn-secondary" OnClick="btnLimpiarExtension_Click" /> <!--   -->
                                         </div>
                                     </div>
                                     
@@ -194,8 +194,8 @@
                                     
                                     <div class="row mb-3">
                                         <div class="col-12">
-                                            <asp:Button ID="btnGuardarEmpleado" runat="server" Text="Guardar" CssClass="btn btn-primary"  /> <!-- OnClick="btnGuardarEmpleado_Click" -->
-                                            <asp:Button ID="btnLimpiarEmpleado" runat="server" Text="Limpiar" CssClass="btn btn-secondary" /> <!-- OnClick="btnLimpiarEmpleado_Click"  -->
+                                            <asp:Button ID="btnGuardarEmpleado" runat="server" Text="Guardar" CssClass="btn btn-primary"  OnClick="btnGuardarEmpleado_Click" /> <!--  -->
+                                            <asp:Button ID="btnLimpiarEmpleado" runat="server" Text="Limpiar" CssClass="btn btn-secondary" OnClick="btnLimpiarEmpleado_Click" /> <!--   -->
                                         </div>
                                     </div>
                                     

@@ -57,3 +57,5 @@ D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\Formulario_Universidad\WebAppl
 D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\Formulario_Universidad\WebApplication_University\WebApplication_University\obj\Debug\WebAppli.D1F9C78E.Up2Date
 D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\Formulario_Universidad\WebApplication_University\WebApplication_University\obj\Debug\WebApplication_University.dll
 D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\Formulario_Universidad\WebApplication_University\WebApplication_University\obj\Debug\WebApplication_University.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\Formulario_Universidad\WebApplication_University\WebApplication_University\bin\BibliotecaClases.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\Formulario_Universidad\WebApplication_University\WebApplication_University\bin\BibliotecaClases.pdb

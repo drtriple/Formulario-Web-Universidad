@@ -1,0 +1,2 @@
+Documento|Nombres|FechaNacimiento|Telefono|Facultad|Curso
+4444|jj|4/12/2024|4545|xx|xx

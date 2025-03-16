@@ -1,0 +1,3 @@
+Documento|Nombres|FechaNacimiento|Telefono|Cargo|Salario
+444|xxx|11/11/2024|4444|ccc|1000
+444|xxx|14/01/2025|4444|ccc|145
